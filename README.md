@@ -1,5 +1,3 @@
-Medal of Honor FOV Changer
+DXHR PrickRand
 ============
-This is my simple FOV Changer for Medal of Honor (2010).
-
-PCGW: http://pcgamingwiki.com/wiki/User:Suicide_machine
+A simple program, heavily inspired by GTA's ChaosMod.
